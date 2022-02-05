@@ -1,9 +1,9 @@
 # Spigot-Basics
-Dieses Projekt bietet einen Einblick in simple Konzepte der Spigot-Programmierung.
+Dieses Projekt bietet einen simplen Einblick in die Spigot-Programmierung.
 
 
 # Coding
-Um ein funktionsfähiges Spigot-Plugin zu schreiben, benötig man:
+Um ein funktionsfähiges Spigot-Plugin zu schreiben, benötigt man:
 - das Java Devolopment Kit oder eine IDE mit integriertem JDK
 - die Spigot-API 'spigot.jar' in der gewünschten Minecraft-Version (https://getbukkit.org/download/spigot)
 - einen Verweis auf diese API im Projekt
