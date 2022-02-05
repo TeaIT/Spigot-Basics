@@ -36,4 +36,4 @@ Plugins hinzufügen:
 
 Ergänzungen:
 - der Ordner 'world' lässt sich durch jede beliebige Minecraft-Welt ersetzen
-- die Datei 'server-icon.png' beeinflusst das Icon des Minecraft-Servers und lässt sich durch Bilder der Dimension 64y64 ersetzen
+- die Datei 'server-icon.png' beeinflusst das Icon des Minecraft-Servers und lässt sich durch Bilder der Dimension 64x64 ersetzen
