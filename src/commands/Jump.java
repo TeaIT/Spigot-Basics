@@ -11,11 +11,13 @@ public class Jump implements CommandExecutor {
 	@Override
 	public boolean onCommand(CommandSender cs, Command cmd, String label, String[] args) {
 		if (cs instanceof Player) {
-			Player p = (Player) cs;
-			p.setVelocity(new Vector(0,1,0));
+			if(cmd.getName().equalsIgnoreCase("jump")) {
+				Player p = (Player) cs;
+				p.setVelocity(new Vector(0,1,0));
+			}
 		}
 		return true;
-		//return gibt an, ob etwas beim benutzen des Befehls schief gegangen ist, für hat diese Meldung keine Wirkung
+		//return gibt an, ob etwas beim benutzen des Befehls schief gegangen ist, fÃ¼r hat diese Meldung keine Wirkung
 	}
 
 }
