@@ -8,7 +8,7 @@ Um ein funktionsfähiges Spigot-Plugin zu schreiben, benötig man:
 - die Spigot-API 'spigot.jar' in der gewünschten Minecraft-Version (https://getbukkit.org/download/spigot)
 - einen Verweis auf diese API
 - die Datei 'plugin.yml' im src-Ordner (WICHTIG! Hier sind keine Tabulatorzeichen erlaubt)
-- eine Main-Klasse, die von 'JavaPlugin' erbt und 'onEnable()', 'onDisable()' überschreibt
+- eine Main-Klasse, die von 'JavaPlugin' erbt und 'onEnable()' und 'onDisable()' überschreibt
 
 Sind diese Bedingungen nicht erfüllt, wird das Plugin nicht funktionieren.
 Weitere nützliche Implementierungen sind in den Klassen des Projektes zu finden.
