@@ -28,7 +28,12 @@ Schritt 2:
 - suche die Datei 'eula.txt' in den generierten Dateien und editiere sie, um der EULA zuzustimmen
 
 Schritt 3:
-- starte den Server erneut mit: 'java -jar spigot.jar'
+- starte den Server erneut mit: 'java -jar spigot.jar' (auf diese Weise lässt er sich auch erneut starten)
+
+Plugins hinzufügen:
+- im Ordner 'plugins' müssen die gewünschten Plugins ergänzt werden
+- mit '/reload' lässt sich der Server aktualisieren
 
 Ergänzungen:
-- der Ordner 'world' lässt sich durch jede beliebige 
+- der Ordner 'world' lässt sich durch jede beliebige Minecraft-Welt ersetzen
+- die Datei 'server-icon.png' beeinflusst das Icon des Minecraft-Servers und lässt sich durch Bilder der Dimension 64y64 ersetzen
