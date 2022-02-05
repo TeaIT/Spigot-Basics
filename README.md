@@ -1,7 +1,7 @@
 # Spigot-Basics
 Gibt einen Einblick in simple Konzepte der Spigot-Programmierung.
 
-#Coding
+# Coding
 Um ein Spigot-Plugin zu schreiben, benötig man:
 - die Spigot-API 'spigot.jar' in der gewünschten Minecraft-Version (https://getbukkit.org/download/spigot)
 - einen Verweis auf die API
